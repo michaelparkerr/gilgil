@@ -1,0 +1,6 @@
+int
+QString
+
+Qstring::number(int n)
+Qstring s;
+s.toInt();
